@@ -34,7 +34,8 @@ To start exploring the IPL Analysis project in Power BI, follow these steps:
 Power BI Desktop (latest version)
 Kaggle dataset (IPL data)
 
-## InstallationDownload the Dataset
+## Installation
+Download the Dataset
 
 Obtain the IPL dataset from Kaggle. You can download it from the Kaggle IPL Dataset.
 
@@ -98,6 +99,10 @@ Use filters and slicers to customize your view of the data.
 Interact with visualizations to analyze specific trends and metrics.
 
 Share the insights with stakeholders by publishing the report to the Power BI service or exporting it as needed.
+
+## Contributing
+
+Feel free to contribute to the project! Whether it's bug fixes, new features, or improvements, your contributions are welcome.
 
 
 
