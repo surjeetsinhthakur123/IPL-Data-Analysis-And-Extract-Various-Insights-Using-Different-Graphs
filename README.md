@@ -34,23 +34,37 @@ To start exploring the IPL Analysis project in Power BI, follow these steps:
 Power BI Desktop (latest version)
 Kaggle dataset (IPL data)
 
-## Installation
-Download the Dataset
+## InstallationDownload the Dataset
+
 Obtain the IPL dataset from Kaggle. You can download it from the Kaggle IPL Dataset.
+
 Open Power BI Desktop
+
 If you don’t have Power BI Desktop installed, download and install it from the Power BI website.
+
 Load the Data
+
 Open Power BI Desktop and load the IPL dataset:
+
 Go to Home > Get Data > CSV (or the format of your dataset).
+
 Select the downloaded dataset file and click Load.
+
 Transform and Clean Data
+
 Use Power Query Editor to perform data transformation and cleaning:
+
 Go to Home > Transform Data.
-Apply necessary transformations and clean the data to fit your analysis needs.
+
+Apply necessary transformations to prepare the data for analysis.
+
 Create KPIs and Dashboards
+
 Use DAX to create calculations and KPIs:
+
 Go to Modeling > New Measure to define new metrics.
-Create visualizations and arrange them into dashboards.
+
+Design visualizations and arrange them into dashboards.
 
 ## Publish the Report
 To share your report with others, publish it to the Power BI service:
