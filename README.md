@@ -88,7 +88,15 @@ To explore the IPL Analysis project in Power BI, follow these steps:
 
 ## Contributing
 
-Feel free to contribute to the project! Whether it's bug fixes, new features, or improvements, your contributions are welcome.
+We welcome contributions to the project! Whether it’s fixing bugs, adding new features, or improving existing functionality, your contributions are appreciated. To contribute:
+
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Commit your changes and submit a pull request with a detailed description.
+
+## Issues and Feedback
+
+If you encounter any issues or have feedback, please open an issue in the repository. Your input is valuable and helps improve the project for everyone!
 
 
 
