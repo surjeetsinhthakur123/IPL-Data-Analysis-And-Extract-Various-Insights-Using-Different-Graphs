@@ -98,6 +98,12 @@ We welcome contributions to the project! Whether it’s fixing bugs, adding new 
 
 If you encounter any issues or have feedback, please open an issue in the repository. Your input is valuable and helps improve the project for everyone!
 
+## Copyright
+
+© 2025 IPL Data Analysis Project. All rights reserved.
+
+This project and its contents are the intellectual property of the creators. Unauthorized reproduction, distribution, or use of any part of this project without explicit permission is prohibited.
+
 
 
 
