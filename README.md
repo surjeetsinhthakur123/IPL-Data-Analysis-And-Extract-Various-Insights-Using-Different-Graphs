@@ -21,9 +21,12 @@ Effective Communication: Presented insights and findings to both technical and n
 You can explore the live project here: [IPL Analysis Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOWE1MmZiMjYtYThhMi00OTM5LTg5ODktYmUxN2JmYWZiZjBmIiwidCI6ImJkNmQzYjM4LWE4MTktNGYyZS1iODhmLThiYzVkNGM0MDEyOSJ9)
 
 ## Technologies Used
-Power BI: For data transformation, cleaning, and visualization.
-DAX (Data Analysis Expressions): To create advanced calculations and KPIs.
+Power BI: For data transformation, visualization, and dashboard creation.
+
+DAX (Data Analysis Expressions): To create advanced calculations and performance metrics.
+
 Power Query Editor: For data transformation and cleaning.
+
 Getting Started
 To start exploring the IPL Analysis project in Power BI, follow these steps:
 
